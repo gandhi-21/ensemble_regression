@@ -9,7 +9,7 @@ https://www.kaggle.com/c/titanic/data
 Process
 1. The data is cleaned using data_cleaning.py
 2. The data is feature encoded using feature_encoder.py
-3. The models are trained using predict.py
+3. The models are trained using train.py
 4. The dispatcher handles what model to be used
 5. The predictions on the test set are made using predict.py
 
