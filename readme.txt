@@ -13,7 +13,6 @@ Process
 4. The dispatcher handles what model to be used
 5. The predictions on the test set are made using predict.py
 
-The whole program is run using run.sh
 All the models are stored in models/
 
 Instructions to run the code and make a submission 
